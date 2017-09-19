@@ -11,6 +11,11 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a través de u
 [Uso]
 Proyecto trata de esto , plugins ,caracteristicas.
 
+##Ejemplo de RPGLE
+
+```
+variable = %trim (variable) ; 
+```
 
 [Documentacion]
 
