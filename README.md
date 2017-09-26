@@ -23,3 +23,4 @@ variable = %trim (variable) ;
 
 [Licencia]
 
+[Agradecimientos]
